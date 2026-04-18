@@ -1,0 +1,4 @@
+# Shapefile geometry/attributes for HOT OSM Haiti buildings exceed GitHub's 100 MB limit.
+datasets/hotosm_hti_buildings_polygons_shp/*.shp
+datasets/hotosm_hti_buildings_polygons_shp/*.dbf
+datasets/hotosm_hti_buildings_polygons_shp/*.shx

@@ -1,0 +1,158 @@
+market_id,market,countryiso3,admin1,admin2,latitude,longitude
+102,Cayes,HTI,South,Les Cayes,18.2,-73.75
+103,Gonaives,HTI,Artibonite,Gonaives,19.45,-72.68
+104,Hinche,HTI,Centre,Hinche,19.15,-72.02
+105,Jacmel,HTI,South-East,Jacmel,18.23,-72.53
+106,Jeremie,HTI,Grande'Anse,Jeremie,18.62,-74.08
+107,Cap-Haitien,HTI,North,Cap-Haitien,19.76,-72.2
+108,Ouanaminthe,HTI,North-East,Ouanaminthe,19.55,-71.73
+109,Port-au-Prince,HTI,West,Port-au-Prince,18.54,-72.33
+110,Port-de-Paix,HTI,North-West,Port-de-Paix,19.94,-72.83
+6012,Marche de Corail,HTI,Grande'Anse,Corail,18.57,-73.89
+6013,Marche de Anse d Hainault,HTI,Grande'Anse,Anse d'Hainault,18.49,-74.45
+6014,Marche de Jeremie,HTI,Grande'Anse,Jeremie,18.65,-74.11
+6015,Marche de Chambellan,HTI,Grande'Anse,Chambellan,18.55,-74.31
+6016,Marche de Moron,HTI,Grande'Anse,Moron,18.56,-74.26
+6017,Marche de Bonbon,HTI,Grande'Anse,Bonbon,18.67,-74.25
+6018,Mache de Roseaux,HTI,Grande'Anse,Roseaux,18.6,-74.02
+6019,Marche de Abricots,HTI,Grande'Anse,Abricots,18.65,-74.31
+6020,Marche de Dame Marie,HTI,Grande'Anse,Dame Marie,18.56,-74.42
+6021,Marche de Pestel,HTI,Grande'Anse,Pestel,18.54,-73.79
+6022,Marche de Marfranc,HTI,Grande'Anse,Jeremie,18.58,-74.22
+6023,Marche de Leon,HTI,Grande'Anse,Jeremie,18.55,-74.11
+6024,Marche de Les Irois,HTI,Grande'Anse,Les Irois,18.41,-74.45
+6025,Marche de Beaumont,HTI,Grande'Anse,Beaumont,18.48,-73.95
+6026,Marche Les Cayimites,HTI,Grande'Anse,Pestel,18.6,-73.8
+6127,Marche Les Anglais,HTI,South,Les Anglais,18.31,-74.22
+6128,Marche Chardonnieres,HTI,South,Chardonnieres,18.28,-74.17
+6129,Les Cayes,HTI,South,Les Cayes,18.2,-73.75
+6130,Marche Cavaillon,HTI,South,Cavaillon,18.3,-73.66
+6131,Marche Saint Jean,HTI,South,Saint Jean du Sud,18.08,-73.81
+6132,Marche de Torbeck,HTI,South,Torbeck,18.16,-73.81
+6133,Marche de Arniquet,HTI,South,Port-Salut,18.15,-73.88
+6134,Aquin,HTI,South,Aquin,18.28,-73.4
+6135,Marche Camp Perrin,HTI,South,Camp-Perrin,18.32,-73.87
+6136,Marche de Maniche,HTI,South,Maniche,18.35,-73.78
+6137,Marche de Aquin,HTI,South,Aquin,18.28,-73.39
+6138,Marche Saint Louis,HTI,South,Saint Louis du Sud,18.26,-73.55
+6139,Marche de Plaisance du Sud,HTI,Nippes,Plaisance du Sud,18.43,-73.59
+6140,Marche de Anse-a-Veau,HTI,Nippes,Anse-a-Veau,18.5,-73.34
+6141,Marche de Petite-Riviere,HTI,Nippes,Petite Riviere de Nippes,18.48,-73.24
+6142,Marche de l'Asile,HTI,Nippes,L'Asile,18.38,-73.42
+6143,Marche des Baraderes,HTI,Nippes,Baraderes,18.48,-73.64
+6144,Marche de Fonds des Negres,HTI,Nippes,Fonds des Negres,18.36,-73.24
+6145,Marche de Arnaud,HTI,Nippes,Arnaud,18.45,-73.4
+6146,Marche de Petit Trou,HTI,Nippes,Petit Trou de Nippes,18.53,-73.51
+7968,Marché de Mombin Crochu,HTI,North-East,Mombin Crochu,19.37,-71.98
+7969,Marché de Sainte Suzane,HTI,North-East,Sainte Suzanne,19.58,-72.09
+7970,Marché de Fort-Liberté,HTI,North-East,Fort-Liberte,19.66,-71.84
+7971,Marché de Mont-Organisé,HTI,North-East,Mont-Organise,19.41,-71.78
+7972,Marché de Perches,HTI,North-East,Perches,19.53,-71.93
+7973,Marché de Valieres,HTI,North-East,Vallieres,19.43,-71.92
+7974,Marché de Gros Morne,HTI,Artibonite,Gros Morne,19.67,-72.68
+7975,Marché de Ennery,HTI,Artibonite,Ennery,19.48,-72.48
+7976,Marché de Saint-Michel,HTI,Artibonite,Saint-Michel de l'Attalaye,19.37,-72.33
+7977,Marché de Belle-Anse,HTI,South-East,Belle Anse,18.24,-72.07
+7978,Marché de Mapou,HTI,South-East,Belle Anse,18.26,-71.95
+7979,Marché de Grand Gosier,HTI,South-East,Grand Gosier,18.19,-71.92
+7980,Marché de Anse-a-Galet,HTI,West,Anse a Galets,18.83,-72.87
+7981,Marché de Pointe-a-Raquette,HTI,West,Pointe a Raquette,18.78,-73.06
+7982,Marché de Cite-Soleil,HTI,West,Cite Soleil,18.59,-72.33
+7983,Marché de Port-Salut,HTI,South,Port-Salut,18.09,-73.92
+7984,Marché de Ducis (Chantal),HTI,South,Torbeck,18.23,-73.88
+7985,Marché de Pignon,HTI,North,Pignon,19.34,-72.12
+7986,Marché de Ranquitte,HTI,North,Ranquitte,19.41,-72.08
+7987,Marché de Grande Riviere du Nord,HTI,North,Grande Riviere Du Nord,19.58,-72.17
+7988,Marché de Cerca La Source,HTI,Centre,Cerca La Source,19.17,-71.79
+7989,Marché de Maissade,HTI,Centre,Maissade,19.18,-72.14
+7991,Marché de Thomonde,HTI,Centre,Maissade,19.18,-72.14
+7992,Marché de Cerca Carvajal,HTI,Centre,Cerca Carvajal,19.27,-71.93
+7993,Marché de Bombardopolis,HTI,North-West,Bombardopolis,19.7,-73.34
+7994,Marché de Jean Rabel,HTI,North-West,Jean Rabel,19.85,-73.19
+7995,Marché de Chansolme,HTI,North-West,Chamsolme,19.88,-72.84
+7996,Marché de Môle Saint Nicolas,HTI,North-West,Mole Saint Nicolas,19.81,-73.37
+7997,Marché de Anse-à-Foleur,HTI,North-West,Anse-a-Foleur,19.89,-72.61
+7998,Marché de Saint-Louis,HTI,North-West,Saint-Louis du Nord,19.93,-72.72
+7999,Marché de Bassin Bleu,HTI,North-West,Bassin Bleu,19.78,-72.8
+8037,Marché de Fonds-Verrettes,HTI,West,Fonds-Verrettes,18.39,-71.86
+8038,Marché de Ganthier,HTI,West,Ganthier,18.53,-72.07
+8039,Marché de Cornillon / Grand-Bois,HTI,West,Cornillon,18.68,-71.95
+8040,Marché de Gressier,HTI,West,Gressier,18.55,-72.51
+8041,Marché de Carrefour,HTI,West,Carrefour,18.54,-72.42
+8042,Marché Chatuley,HTI,West,Leogane,18.51,-72.63
+8043,Marché de Thomazeau,HTI,West,Thomazeau,18.65,-72.1
+8044,Marché de Grand-Goave,HTI,West,Grand-Goave,18.42,-72.77
+8045,Marché Marche Lacoupe,HTI,West,Petion-Ville,18.52,-72.28
+8046,Marché de Kenscoff,HTI,West,Kenscoff,18.47,-72.29
+8047,Marché de Tabarre,HTI,West,Tabarre,18.58,-72.27
+8048,Marché Croix des bossales,HTI,West,Port-au-Prince,18.56,-72.34
+8049,Marché Seradotte,HTI,West,Delmas,18.56,-72.31
+8050,Marché public d'Arcahaie,HTI,West,Arcahaie,18.77,-72.51
+8051,Marché de Cabaret,HTI,West,Cabaret,18.74,-72.42
+8052,Marché Public de la Croix-des-Bouquets,HTI,West,Croix-Des-Bouquets,18.58,-72.22
+8053,Marché de Petit-Goave,HTI,West,Petit-Goave,18.43,-72.87
+8054,Marché de Thiotte,HTI,South-East,Thiotte,18.25,-71.84
+8055,Marché de Marigot,HTI,South-East,Marigot,18.23,-72.33
+8056,Marché de Cote-De-Fer,HTI,South-East,Cotes de Fer,18.19,-73.01
+8057,Marché de Anse-A-Pitre,HTI,South-East,Anse-a-Pitre,18.04,-71.76
+8058,Marché de Cayes-Jacmel,HTI,South-East,Cayes-Jacmel,18.23,-72.4
+8059,Marché en Fer Jacmel,HTI,South-East,Jacmel,18.23,-72.54
+8060,Marché Publique de la Vallée,HTI,South-East,La Vallee,18.27,-72.66
+8061,Marché de Bainet,HTI,South-East,Bainet,18.18,-72.76
+8062,Marché de Plaisance,HTI,North,Plaisance,19.6,-72.47
+8063,Marché de Dondon,HTI,North,Dondon,19.53,-72.24
+8064,Marché de La Victoire,HTI,North,La Victoire,19.34,-72.02
+8065,Marché Cluny,HTI,North,Cap-Haitien,19.76,-72.2
+8066,Marché de Milot,HTI,North,Milot,19.61,-72.22
+8067,Marché de Quartier Morin,HTI,North,Quartier Morin,19.7,-72.16
+8068,Place du Marché du Limbé,HTI,North,Limbe,19.7,-72.4
+8069,Marché de Pilate,HTI,North,Pilate,19.67,-72.55
+8070,Marché de Borgne,HTI,North,Borgne,19.85,-72.52
+8071,Marché de Bas Limbe,HTI,North,Acul du Nord,19.74,-72.35
+8072,Marché de Limonade,HTI,North,Limonade,19.67,-72.12
+8073,Marché de Bahon,HTI,North,Bahon,19.47,-72.11
+8074,Marché de Port Margot,HTI,North,Port-Margot,19.75,-72.43
+8075,Marché de St. Raphael,HTI,North,Saint-Raphael,19.44,-72.2
+8076,Marché de Plaine Du Nord,HTI,North,Plaine du Nord,19.68,-72.27
+8077,Marché de Acul Du Nord,HTI,North,Acul du Nord,19.68,-72.32
+8078,Marché de Trou Du Nord,HTI,North-East,Trou du Nord,19.62,-72.02
+8079,Marché de Ferrier,HTI,North-East,Ferrier,19.62,-71.77
+8080,Marché de Ouanaminthe,HTI,North-East,Ouanaminthe,19.55,-71.73
+8081,Marché de Terrier Rouge,HTI,North-East,Terrier Rouge,19.63,-71.96
+8082,Marché de Caracol,HTI,North-East,Caracol,19.69,-72.02
+8083,Marché de Capotille,HTI,North-East,Capotille,19.44,-71.69
+8084,Marché de Carice,HTI,North-East,Carice,19.38,-71.83
+8085,Marché de La Chapelle,HTI,Artibonite,La Chapelle,18.91,-72.31
+8086,Marché de Anse Rouge,HTI,Artibonite,Anse Rouge,19.63,-73.06
+8087,Marché de Desdunes,HTI,Artibonite,Desdunes,19.29,-72.64
+8088,Marché de L'estere,HTI,Artibonite,Dessalines,19.3,-72.61
+8089,Marché publique de Marmelade,HTI,Artibonite,Marmelade,19.52,-72.36
+8090,Marché de Grande Saline,HTI,Artibonite,Grande Saline,19.25,-72.77
+8091,Marché de Gonaives,HTI,Artibonite,Gonaives,19.45,-72.69
+8092,Marché publique de Verrettes,HTI,Artibonite,Verrettes,19.05,-72.46
+8093,Marché de Petite Riviere De L'arti*,HTI,Artibonite,Petite Riviere de l'Artibonite,19.12,-72.48
+8094,Marché de Dessalines / Marchandes,HTI,Artibonite,Dessalines,19.26,-72.52
+8095,Marché de Terre Neuve,HTI,Artibonite,Terre Neuve,19.6,-72.78
+8096,Marché de Saint-Marc,HTI,Artibonite,Saint-Marc,19.11,-72.7
+8097,Marché de Saut-D'eau,HTI,Centre,Saut d'Eau,18.81,-72.2
+8098,Marché croix fer,HTI,Centre,Belladere,18.85,-71.81
+8099,Marché de Savanette,HTI,Centre,Savanette,18.74,-71.82
+8100,Marché Paskannòt,HTI,Centre,Mirebalais,18.84,-72.1
+8101,Marché de Thomassique,HTI,Centre,Thomassique,19.08,-71.84
+8102,Marché de Boucan Carre,HTI,Centre,Boucan Carre,18.92,-72.15
+8103,Marché de Hinche,HTI,Centre,Hinche,19.15,-72.01
+8104,Marché de Lascahobas,HTI,Centre,Lascahobas,18.83,-71.94
+8105,Marché de Port-A-Piment,HTI,South,Port-a-Piment,18.25,-74.1
+8106,Marché de Arniquet,HTI,South,Port-Salut,18.15,-73.87
+8107,Marché de Roche-A-Bateau,HTI,South,Roche a Bateau,18.18,-74
+8108,Marché de Coteaux,HTI,South,Coteaux,18.21,-74.04
+8109,Marché de Tiburon,HTI,South,Tiburon,18.33,-74.4
+8110,Marché de Ile A Vache,HTI,South,Ile a Vache,18.09,-73.65
+8111,Marché publique et communal de Chantal,HTI,South,Chantal,18.2,-73.89
+8112,Marché de La Tortue,HTI,North-West,La Tortue,20.02,-72.73
+8113,Marché de Baie De Henne,HTI,North-West,Baie de Henne,19.66,-73.21
+8114,Marché de Port De Paix,HTI,North-West,Port-de-Paix,19.94,-72.83
+8115,Marché de Paillant,HTI,Nippes,Paillant,18.42,-73.15
+8116,Marché de Grand Boucan,HTI,Nippes,Grand-Boucan,18.55,-73.59
+8117,Marché de Miragoane,HTI,Nippes,Miragoane,18.45,-73.09
+10805,Marche Previle,HTI,Grande'Anse,Jeremie,18.54,-74.16

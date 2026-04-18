@@ -1,0 +1,316 @@
+countryCode,id,name,code,startDate,endDate,year,clusterCode,cluster,requirements,funding,percentFunded
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,1,Camp Coordination / Management,17000000,636458,4
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,26480,Coordination and support services,6712634,2555083,38
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,2,Early Recovery,,62500,
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,3,Education,61727200,4802917,8
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,4,Emergency Shelter and NFI,60557346,4127545,7
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,6,Food Security,423500000,13076232,3
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,7,Health,69200000,1367442,2
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,8,Logistics,21100000,1000000,5
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,16,Multipurpose Cash,37299511,1998570,5
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,9,Nutrition,40667320,3211883,8
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,10,Protection,70625000,3769263,5
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,11,Water Sanitation Hygiene,71938415,2604781,4
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,,Not specified,,132402840,
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2026-01-01,2026-12-31,2026,,Multiple clusters/sectors (shared),,441565,
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,1,Camp Coordination / Management,12300000,3793829,31
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,26480,Coordination and support services,8293000,9377062,113
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,2,Early Recovery,,1203804,
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,3,Education,61626718,18794721,30
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,4,Emergency Shelter and NFI,78000000,13998388,18
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,6,Food Security,425000000,84982142,20
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,7,Health,43500000,16909546,39
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,8,Logistics,19800000,17337143,88
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,16,Multipurpose Cash,26600000,5562935,21
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,9,Nutrition,39900000,7243945,18
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,10,Protection,7200000,6231780,87
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,12,Protection - Child Protection,44540271,5456081,12
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,13,Protection - Gender-Based Violence,19200000,3819750,20
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,26546,Protection - Human Trafficking & Smuggling,35200000,7273783,21
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,11,Water Sanitation Hygiene,87000000,14513798,17
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,,Not specified,,21767361,
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2025-01-01,2025-12-31,2025,,Multiple clusters/sectors (shared),,8047304,
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,1,Camp Coordination / Management,4500002,3845021,85
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,26480,Coordination and support services,4200000,3730310,89
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,3,Education,30440000,9995572,33
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,4,Emergency Shelter and NFI,55705000,12675074,23
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,6,Food Security,340000000,136285788,40
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,7,Health,37300000,25772596,69
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,8,Logistics,17184000,11810705,69
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,16,Multipurpose Cash,,8987769,
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,9,Nutrition,32499165,18582421,57
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,10,Protection,1800000,6190921,344
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,12,Protection - Child Protection,30411351,9796904,32
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,13,Protection - Gender-Based Violence,15877834,4219917,27
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,26546,Protection - Human Trafficking & Smuggling,19550000,1895621,10
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,11,Water Sanitation Hygiene,84300000,31404952,37
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,,Not specified,,10210314,
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2024-01-01,2024-12-31,2024,,Multiple clusters/sectors (shared),,2518473,
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,1,Camp Coordination / Management,3327600,2707191,81
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,26480,Coordination and support services,4100000,4861083,119
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,3,Education,50000000,10625390,21
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,4,Emergency Shelter and NFI,57772400,10857596,19
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,6,Food Security,420000000,118673028,28
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,7,Health,30671803,20488569,67
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,8,Logistics,15750000,12369611,79
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,9,Nutrition,31665660,12482120,39
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,10,Protection,1750000,18026453,1030
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,12,Protection - Child Protection,20100000,3309045,16
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,13,Protection - Gender-Based Violence,12084610,5001271,41
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,26546,Protection - Human Trafficking & Smuggling,8200000,1508345,18
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,11,Water Sanitation Hygiene,64435640,23349437,36
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,,Not specified,,2728117,
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,2023-01-01,2023-12-31,2023,,Multiple clusters/sectors (shared),,984543,
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,26512,Agriculture,,0,
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,26480,Coordination and support services,1900000,7560489,398
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,3,Education,26600000,5868315,22
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,4,Emergency Shelter and NFI,54310800,3920526,7
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,6,Food Security,198618084,97769424,49
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,7,Health,20458500,9008166,44
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,8,Logistics,12370000,18445906,149
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,26479,Multi-sector,,3743519,
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,9,Nutrition,15225494,6131192,40
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,10,Protection,400000,8390175,2098
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,12,Protection - Child Protection,11214665,150000,1
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,13,Protection - Gender-Based Violence,5800000,500000,9
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,26546,Protection - Human Trafficking & Smuggling,7000000,0,0
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,11,Water Sanitation Hygiene,19268191,4109285,21
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,,Not specified,,4648267,
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,2022-01-01,2022-12-31,2022,,Multiple clusters/sectors (shared),,22621635,
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,26480,Coordination and support services,,29377,
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,6,Food Security,71932380,,
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,7,Health,24061598,4152802,17
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,8,Logistics,18939040,2113888,11
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,9,Nutrition,2600000,1283137,49
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,10,Protection,9565160,0,0
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,11,Water Sanitation Hygiene,18502056,5364712,29
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,,Not specified,,533049,
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,2022-10-16,2023-04-15,2022,,Multiple clusters/sectors (shared),,923191,
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,1,Camp Coordination / Management,,0,
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,26480,Coordination and support services,1800000,661563,37
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,3,Education,15000000,,
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,4,Emergency Shelter and NFI,10700000,586812,5
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,6,Food Security,156000000,25531717,16
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,7,Health,15000000,633644,4
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,8,Logistics,8500000,2638347,31
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,9,Nutrition,5200000,1497680,29
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,10,Protection,3800000,3229428,85
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,12,Protection - Child Protection,3395167,0,0
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,13,Protection - Gender-Based Violence,4200000,1235362,29
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,11,Water Sanitation Hygiene,12000000,1063765,9
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,,Not specified,,5276016,
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,2021-01-01,2021-12-31,2021,,Multiple clusters/sectors (shared),,23121441,
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,26512,Agriculture,20000000,0,0
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,1,Camp Coordination / Management,,0,
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,26480,Coordination and support services,300000,1555726,519
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,2,Early Recovery,8000000,60533,1
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,3,Education,39000000,1500000,4
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,4,Emergency Shelter and NFI,30000000,4830471,16
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,5,Emergency Telecommunications,540000,,
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,6,Food Security,20000000,12404276,62
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,7,Health,21155000,4318834,20
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,8,Logistics,7000000,16638854,238
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,9,Nutrition,12000000,0,0
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,26481,Other,200000,386871,193
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,10,Protection,400000,0,0
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,12,Protection - Child Protection,6000000,1154095,19
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,13,Protection - Gender-Based Violence,1200000,346603,29
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,11,Water Sanitation Hygiene,21500000,7008848,33
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,,Not specified,,6442113,
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,2021-08-16,2022-02-15,2021,,Multiple clusters/sectors (shared),,21030755,
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,26513,COVID-19,,0,
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,26480,Coordination and support services,1250000,422962,34
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,3,Education,15020000,1515000,10
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,4,Emergency Shelter and NFI,15530000,0,0
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,6,Food Security,249200000,97836073,39
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,7,Health,13949722,6921531,50
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,8,Logistics,6850000,4393195,64
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,26479,Multi-sector,105039433,15367871,15
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,9,Nutrition,10010000,1383609,14
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,10,Protection,24053880,783121,3
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,12,Protection - Child Protection,18823880,0,0
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,13,Protection - Gender-Based Violence,18823880,133000,1
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,15,Protection - Mine Action,18823880,0,0
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,11,Water Sanitation Hygiene,31090000,9454311,30
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,,Not specified,,9783506,
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,2020-01-01,2020-12-31,2020,,Multiple clusters/sectors (shared),,5302043,
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,1,Camp Coordination / Management,3001913,0,0
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,26480,Coordination and support services,813395,0,0
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,3,Education,4420106,33632,1
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,4,Emergency Shelter and NFI,18267443,3493307,19
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,6,Food Security,58852570,23612081,40
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,7,Health,26792095,6931530,26
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,8,Logistics,1200000,0,0
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,9,Nutrition,1504000,1175710,78
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,10,Protection,5835416,920251,16
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,11,Water Sanitation Hygiene,5520689,3213504,58
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,,Not specified,,149031,
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,2019-01-01,2019-12-31,2019,,Multiple clusters/sectors (shared),,1732643,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,1,Camp Coordination / Management,13695035,,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,26480,Coordination and support services,3795882,1115776,29
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,2,Early Recovery,20795097,59737,0
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,3,Education,2542273,,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,4,Emergency Shelter and NFI,73436457,3973888,5
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,6,Food Security,65827582,14598189,22
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,7,Health,27022902,4284843,16
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,9,Nutrition,2000000,1399954,70
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,10,Protection,5383984,,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,12,Protection - Child Protection,964000,,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,13,Protection - Gender-Based Violence,977200,,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,14,"Protection - Housing, Land and Property",29412850,,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,11,Water Sanitation Hygiene,6346880,3140456,49
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,,Not specified,,1279247,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,2018-01-01,2018-12-31,2018,,Multiple clusters/sectors (shared),,0,
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,26512,Agriculture,,3067638,
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,1,Camp Coordination / Management,5497860,,
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,26480,Coordination and support services,2226746,848263,38
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,2,Early Recovery,28724665,19107013,67
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,3,Education,6066984,2773117,46
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,4,Emergency Shelter and NFI,26798048,4158607,16
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,6,Food Security,35997001,21564120,60
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,7,Health,60872285,6255208,10
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,8,Logistics,2050000,188986,9
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,9,Nutrition,4974500,783366,16
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,10,Protection,5584775,914936,16
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,11,Water Sanitation Hygiene,13430774,6069615,45
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,,Not specified,,10185518,
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,2017-01-01,2017-12-31,2017,,Multiple clusters/sectors (shared),,1449993,
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,26512,Agriculture,14401033,6731254,47
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,1,Camp Coordination / Management,38236191,13214926,35
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,26480,Coordination and support services,3163232,1433523,45
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,2,Early Recovery,3615700,1235657,34
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,6,Food Security,81528700,30960891,38
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,7,Health,12834185,3354363,26
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,9,Nutrition,7367376,1704270,23
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,10,Protection,20684652,4004160,19
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,11,Water Sanitation Hygiene,11955792,5755890,48
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,,Not specified,,73424,
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,2016-01-01,2016-12-31,2016,,Multiple clusters/sectors (shared),,0,
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,26512,Agriculture,9000000,4776736,53
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,26480,Coordination and support services,1432242,482362,34
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,2,Early Recovery,6560000,1299256,20
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,3,Education,7500000,2064741,28
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,4,Emergency Shelter and NFI,17007002,9370675,55
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,5,Emergency Telecommunications,6317060,9307094,147
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,6,Food Security,46000000,22529423,49
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,7,Health,18419759,7826172,42
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,10,Protection,8725000,1138840,13
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,11,Water Sanitation Hygiene,18065786,10619880,59
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,,Not specified,,16984059,
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,2016-10-10,2016-12-31,2016,,Multiple clusters/sectors (shared),,0,
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,26512,Agriculture,2160500,945422,44
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,26480,Coordination and support services,588500,,
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,6,Food Security,5308446,6981962,132
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,7,Health,6419429,1778849,28
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,26479,Multi-sector,357380,,
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,9,Nutrition,992960,,
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,10,Protection,3811471,848880,22
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,11,Water Sanitation Hygiene,5882076,2366305,40
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,,Not specified,,379363,
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,2015-08-01,2015-12-31,2015,,Multiple clusters/sectors (shared),,0,
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,26512,Agriculture,7982855,4300971,54
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,1,Camp Coordination / Management,0,,
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,26480,Coordination and support services,3592856,2017034,56
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,4,Emergency Shelter and NFI,73463686,41539786,57
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,6,Food Security,11280000,6895771,61
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,7,Health,16668171,11348423,68
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,8,Logistics,700000,,
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,10,Protection,7319802,2618383,36
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,11,Water Sanitation Hygiene,36447583,20284434,56
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,,Not specified,,37461885,
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2014-01-01,2014-12-31,2014,,Multiple clusters/sectors (shared),,0,
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,26512,Agriculture,18417498,1487926,8
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,1,Camp Coordination / Management,755341,300000,40
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,26480,Coordination and support services,11891737,4603564,39
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,2,Early Recovery,15536750,3685217,24
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,4,Emergency Shelter and NFI,36685911,25605619,70
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,6,Food Security,17769887,12742205,72
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,7,Health,28089677,7337346,26
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,8,Logistics,0,,
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,10,Protection,1772301,,
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,11,Water Sanitation Hygiene,21424708,9732748,45
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,,Not specified,,7277010,
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,2013-01-01,2013-12-31,2013,,Multiple clusters/sectors (shared),,0,
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,26512,Agriculture,9010664,4466152,50
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,1,Camp Coordination / Management,25320781,9944979,39
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,26480,Coordination and support services,5114572,1761226,34
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,2,Early Recovery,2455619,300000,12
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,3,Education,5602637,1825908,33
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,4,Emergency Shelter and NFI,15216527,5205922,34
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,5,Emergency Telecommunications,391290,,
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,6,Food Security,14665000,9373749,64
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,7,Health,23570594,13640934,58
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,8,Logistics,4384450,,
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,10,Protection,19584916,10539636,54
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,11,Water Sanitation Hygiene,25763760,12013669,47
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,,Not specified,,1239169,
+HTI,385,Haiti 2012,CHTI12,2012-01-01,2012-12-31,2012,,Multiple clusters/sectors (shared),,0,
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,26512,Agriculture,18366376,1677917,9
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,1,Camp Coordination / Management,48492400,17014412,35
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,26480,Coordination and support services,14387829,6380868,44
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,2,Early Recovery,30910430,7189672,23
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,3,Education,10935564,11994206,110
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,4,Emergency Shelter and NFI,31786731,12234546,38
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,5,Emergency Telecommunications,516201,516201,100
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,6,Food Security,44856277,30885541,69
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,7,Health,78967417,55091766,70
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,8,Logistics,10497860,12358231,118
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,10,Protection,14350518,7131960,50
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,11,Water Sanitation Hygiene,78323016,46419960,59
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,,Not specified,,11925647,
+HTI,362,Haiti 2011,CHTI1011,2010-12-01,2011-12-31,2011,,Multiple clusters/sectors (shared),,0,
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,26512,Agriculture,58818036,31521905,54
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,1,Camp Coordination / Management,78779460,36451372,46
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,26480,Coordination and support services,22052678,22526488,102
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,2,Early Recovery,140514270,55576563,40
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,3,Education,87536872,86271684,99
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,4,Emergency Shelter and NFI,162263354,109205175,67
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,5,Emergency Telecommunications,4433765,782460,18
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,6,Food Security,486742542,369441000,76
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,7,Health,188429171,150543785,80
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,8,Logistics,89843876,66153838,74
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,10,Protection,71867732,44776803,62
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,11,Water Sanitation Hygiene,110939574,97812536,88
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,,Not specified,,37456123,
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,2010-01-12,2010-12-31,2010,,Multiple clusters/sectors (shared),,0,
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,26512,Agriculture,11500000,4423314,38
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,26480,Coordination and support services,750000,10000,1
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,2,Early Recovery,30500000,4143645,14
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,3,Education,3100000,441982,14
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,4,Emergency Shelter and NFI,9043185,5621392,62
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,5,Emergency Telecommunications,716969,205502,29
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,6,Food Security,31239876,28744759,92
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,7,Health,7046000,6007412,85
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,8,Logistics,18794761,14415813,77
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,10,Protection,1910000,132680,7
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,11,Water Sanitation Hygiene,4500000,1722131,38
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,,Not specified,,7365268,
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,2008-09-01,2009-03-31,2008,,Multiple clusters/sectors (shared),,0,
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,26512,Agriculture,4000000,303600,8
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,26480,Coordination and support services,5958449,4607559,77
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,3,Education,2326761,,
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,6,Food Security,7970497,3564862,45
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,7,Health,10953464,2047531,19
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,26479,Multi-sector,,1976452,
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,10,Protection,2913650,68966,2
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,11,Water Sanitation Hygiene,1674773,862449,51
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,,Not specified,,1991573,
+HTI,155,Haiti  2004,FHTI04,2004-03-01,2004-08-31,2004,,Multiple clusters/sectors (shared),,0,
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,26512,Agriculture,2677000,2629280,98
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,26480,Coordination and support services,600000,191436,32
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,2,Early Recovery,2775000,,
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,3,Education,5487260,636132,12
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,4,Emergency Shelter and NFI,2440000,,
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,6,Food Security,11704217,10323566,88
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,7,Health,6242856,1623130,26
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,26479,Multi-sector,601153,616148,102
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,11,Water Sanitation Hygiene,4835818,1022209,21
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,,Not specified,,488091,
+HTI,160,Haiti Floods  2004,FHTI0405,2004-10-01,2005-03-31,2004,,Multiple clusters/sectors (shared),,0,
+HTI,125,Haiti (PIR) 2003,OHTI03,2003-03-01,2003-08-31,2003,26512,Agriculture,112478,80000,71
+HTI,125,Haiti (PIR) 2003,OHTI03,2003-03-01,2003-08-31,2003,26480,Coordination and support services,443000,278000,63
+HTI,125,Haiti (PIR) 2003,OHTI03,2003-03-01,2003-08-31,2003,6,Food Security,4995279,4995279,100
+HTI,125,Haiti (PIR) 2003,OHTI03,2003-03-01,2003-08-31,2003,7,Health,5640000,,
+HTI,125,Haiti (PIR) 2003,OHTI03,2003-03-01,2003-08-31,2003,11,Water Sanitation Hygiene,3210000,80000,2
+HTI,125,Haiti (PIR) 2003,OHTI03,2003-03-01,2003-08-31,2003,,Not specified,,,
+HTI,125,Haiti (PIR) 2003,OHTI03,2003-03-01,2003-08-31,2003,,Multiple clusters/sectors (shared),,0,
